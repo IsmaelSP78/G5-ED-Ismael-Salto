@@ -1,4 +1,4 @@
-Prasa subir cambios al repositorio es necesario entrar a la carpeta en la que se encuentra 
+Para subir cambios al repositorio es necesario entrar a la carpeta en la que se encuentra 
 desde la terminal y realizar los siguientes comandos:
 
 Antes poner cd documents
