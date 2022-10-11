@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\Isalt\Documents\G5-ED-Ismael-Salto\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
