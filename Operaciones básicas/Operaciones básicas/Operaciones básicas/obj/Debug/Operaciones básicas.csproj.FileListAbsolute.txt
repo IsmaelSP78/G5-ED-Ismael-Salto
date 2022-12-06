@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe.config
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.pdb
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estrcutura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.pdb
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe.config
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.pdb
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.exe
+C:\Users\USER\Desktop\Escuela\5. Quinto semestre\Estructura de Datos\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.pdb
